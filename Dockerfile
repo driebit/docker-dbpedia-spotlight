@@ -1,4 +1,4 @@
-FROM java:jre
+FROM openjdk:8-jre-alpine
 
 ENV VERSION=latest
 ENV MEMORY=2g
